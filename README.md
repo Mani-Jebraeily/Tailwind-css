@@ -19,7 +19,7 @@ It's fast, flexible, and reliable — with zero-runtime.
 ># **Demo**
 
 
-[**Click here to see demo**](https://mani-jebraeily.github.io/Tailwind-css/)
+<!-- [**Click here to see demo**](https://mani-jebraeily.github.io/Tailwind-css/) -->
 
 
 **`Desktop design`**

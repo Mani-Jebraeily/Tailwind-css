@@ -7,5 +7,5 @@ export default defineConfig({
     tailwindcss()
     ,react()
   ],
-  base: "/Tailwind-css"
+  base: "/Tailwind-css/"
 })
